@@ -4,3 +4,6 @@
 
 ![alt-text](final.png)
 
+<video controls="true" allowfullscreen="true" poster="final.png">
+    <source src="final.mp4" type="video/mp4">
+</video>
