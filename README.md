@@ -6,4 +6,4 @@
 
 ![Gif of final animation](/renders/final.gif)
 
-The full high quality animation can be found as final.mp4
+The full high quality animation can be found as final.mp4 in /renders
